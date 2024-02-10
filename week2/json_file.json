@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "name": "Alice",
+      "age": 30,
+      "city": "New York",
+      "job": "Employer"
+    },
+    {
+      "name": "Bob",
+      "age": 25,
+      "city": "San Francisco",
+      "job": "Employee"
+    },
+    {
+      "name": "Charlie",
+      "age": 35,
+      "city": "Los Angeles",
+      "job": "Product Owner"
+    }
+  ]
+}
